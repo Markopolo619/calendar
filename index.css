@@ -12,3 +12,8 @@ body{
 p{
     color: turquoise;
 }
+
+.text{
+    font-size: 14px;
+    background-color: aliceblue;
+}
