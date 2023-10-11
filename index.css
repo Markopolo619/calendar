@@ -4,3 +4,16 @@
     box-sizing: border-box;
     
 }
+
+body{
+    text-align: center;
+}
+
+p{
+    color: turquoise;
+}
+
+.text{
+    font-size: 14px;
+    background-color: aliceblue;
+}
